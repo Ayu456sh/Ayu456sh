@@ -15,7 +15,7 @@
 
 ### 🛠 **About Me**
 <div align="center">
-  <img align="left" alt="Coding" width="300" src="https://i.imgur.com/YOUR_NEW_IMAGE_ID.png" style="margin-right: 20px;" />
+  <img align="left" alt="Coding" width="300" src="https://ibb.co/hQwKSJK" style="margin-right: 20px;" />
   
   - 🎓 **B.Tech Computer Science Student** at VIT Bhopal University (CGPA: 8.58/10)
   - 💻 **Full-Stack Developer** with expertise in React, Node.js, and Python
