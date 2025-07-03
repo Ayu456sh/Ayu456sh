@@ -14,14 +14,16 @@
 ---
 
 ### 🛠 **About Me**
-<div align="center">
-  <img align="left" alt="Coding" width="300" src="https://ibb.co/tpgRmNVC" style="margin-right: 20px;" />
+<div style="display: flex; align-items: center;">
+  <img align="left" alt="Coding" width="300" src="https://i.imgur.com/https://ibb.co/tpgRmNVC" style="margin-right: 30px;" />
   
-  - 🎓 **B.Tech Computer Science Student** at VIT Bhopal University (CGPA: 8.58/10)
-  - 💻 **Full-Stack Developer** with expertise in React, Node.js, and Python
-  - 🤖 **AI/ML Enthusiast** specializing in computer vision and recommendation systems
-  - 🏆 **Hackathon Winner** - 3rd rank in OnlineSales.Ai's national hackathon (₹30,000 prize)
-  - ⚡ **Fun Fact**: I love building AI-powered solutions that solve real-world problems!
+  <div>
+    - 🎓 **B.Tech Computer Science Student** at VIT Bhopal University (CGPA: 8.58/10)<br>
+    - 💻 **Full-Stack Developer** with expertise in React, Node.js, and Python<br>
+    - 🤖 **AI/ML Enthusiast** specializing in computer vision and recommendation systems<br>
+    - 🏆 **Hackathon Winner** - 3rd rank in OnlineSales.Ai's national hackathon (₹30,000 prize)<br>
+    - ⚡ **Fun Fact**: I love building AI-powered solutions that solve real-world problems!
+  </div>
 </div>
 
 <br clear="both">
