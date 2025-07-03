@@ -10,7 +10,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ayu456sh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 <img align="right" alt="Coding" width="400" src="https://ibb.co/tpgRmNVC" />
+
 ---
 
 ### 🛠 **About Me**
