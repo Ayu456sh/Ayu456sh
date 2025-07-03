@@ -10,12 +10,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ayu456sh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
+<img align="right" alt="Coding" width="400" src="https://ibb.co/tpgRmNVC" />
 ---
 
 ### 🛠 **About Me**
-<div style="display: flex; align-items: center; gap: 30px;">
-  <img src="https://i.ibb.co/tpgRmNVC/image.png" alt="Coding" width="300" style="border-radius: 10px; margin-inline: auto;" />
   
   <div>
     - 🎓 <strong>B.Tech Computer Science Student</strong> at VIT Bhopal University (CGPA: 8.58/10)<br>
