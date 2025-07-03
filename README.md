@@ -11,16 +11,20 @@
   <img src="https://komarev.com/ghpvc/?username=Ayu456sh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://ibb.co/hQwKSJK"  />
-
 ---
 
 ### 🛠 **About Me**
-- 🎓 **B.Tech Computer Science Student** at VIT Bhopal University (CGPA: 8.58/10)
-- 💻 **Full-Stack Developer** with expertise in React, Node.js, and Python
-- 🤖 **AI/ML Enthusiast** specializing in computer vision and recommendation systems
-- 🏆 **Hackathon Winner** - 3rd rank in OnlineSales.Ai's national hackathon (₹30,000 prize)
-- ⚡ **Fun Fact**: I love building AI-powered solutions that solve real-world problems!
+<div align="center">
+  <img align="left" alt="Coding" width="300" src="https://ibb.co/tpgRmNVC" style="margin-right: 20px;" />
+  
+  - 🎓 **B.Tech Computer Science Student** at VIT Bhopal University (CGPA: 8.58/10)
+  - 💻 **Full-Stack Developer** with expertise in React, Node.js, and Python
+  - 🤖 **AI/ML Enthusiast** specializing in computer vision and recommendation systems
+  - 🏆 **Hackathon Winner** - 3rd rank in OnlineSales.Ai's national hackathon (₹30,000 prize)
+  - ⚡ **Fun Fact**: I love building AI-powered solutions that solve real-world problems!
+</div>
+
+<br clear="both">
 
 ---
 
@@ -90,6 +94,7 @@
 </p>
 
 ---
+
 ### 🏆 **GitHub Trophies**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ayu456sh&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
