@@ -7,31 +7,21 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayu456sh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<img align="right" alt="Coding" width="400" src="https://ibb.co/tpgRmNVC" />
-
----
-
 ### 🛠 **About Me**
-  
-  <div>
-    - 🎓 <strong>B.Tech Computer Science Student</strong> at VIT Bhopal University (CGPA: 8.58/10)<br>
-    - 💻 <strong>Full-Stack Developer</strong> with expertise in React, Node.js, and Python<br>
-    - 🤖 <strong>AI/ML Enthusiast</strong> specializing in computer vision and recommendation systems<br>
-    - 🏆 <strong>Hackathon Winner</strong> - 3rd rank in OnlineSales.Ai's national hackathon (₹30,000 prize)<br>
-    - ⚡ <strong>Fun Fact</strong>: I love building AI-powered solutions that solve real-world problems!
-  </div>
+<div align="center">
+  <img src="https://i.ibb.co/tpgRmNVC/image.png" alt="Profile Image" width="300" style="border-radius: 10px; margin-bottom: 20px;" />
 </div>
 
-<br clear="both">
+- 🎓 **B.Tech Computer Science Student** at VIT Bhopal University (CGPA: 8.58/10)
+- 💻 **Full-Stack Developer** with expertise in React, Node.js, and Python
+- 🤖 **AI/ML Enthusiast** specializing in computer vision and recommendation systems
+- 🏆 **Hackathon Winner** - 3rd rank in OnlineSales.Ai's national hackathon (₹30,000 prize)
+- ⚡ **Fun Fact**: I love building AI-powered solutions that solve real-world problems!
 
 ---
 
 ### 🌐 **Connect With Me**
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/ayush-kakkar-11a24a252/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -39,8 +29,6 @@
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
-
----
 
 ### 💻 **Tech Stack**
 <p align="left">
