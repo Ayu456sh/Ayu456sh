@@ -2,7 +2,7 @@
 
 ## Your Customized Profile Code
 
-```markdown
+
 <h1 align="center">Hi 👋, I'm Ayush Kakkar</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
 
