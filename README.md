@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=Ayu456sh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/50KVyXXg/about-pic.png" />
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/YOUR_NEW_IMAGE_ID.png" />
 
 ---
 
