@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Kakkar</h1>
+![image (9)](https://github.com/user-attachments/assets/158613f4-6b7d-448d-9626-86972e81245e)<h1 align="center">Hi 👋, I'm Ayush Kakkar</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=Ayu456sh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/YOUR_NEW_IMAGE_ID.png" />
+<img align="right" alt="Coding" width="400" src="[https://i.imgur.com/YOUR_NEW_IMAGE_ID.png](https://ibb.co/hQwKSJK)" />
 
 ---
 
