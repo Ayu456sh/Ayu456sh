@@ -8,15 +8,18 @@
 ---
 
 ### 🛠 **About Me**
-<div align="center">
-  <img src="https://i.ibb.co/tpgRmNVC/image.png" alt="Profile Image" width="300" style="border-radius: 10px; margin-bottom: 20px;" />
-</div>
-
+<div align="left">
+  <img src="https://i.ibb.co/tpgRmNVC/image.png" alt="Profile Image" width="300" style="border-radius: 10px; margin: 0 20px 20px 0; float: right;" />
+  
 - 🎓 **B.Tech Computer Science Student** at VIT Bhopal University (CGPA: 8.58/10)
 - 💻 **Full-Stack Developer** with expertise in React, Node.js, and Python
 - 🤖 **AI/ML Enthusiast** specializing in computer vision and recommendation systems
 - 🏆 **Hackathon Winner** - 3rd rank in OnlineSales.Ai's national hackathon (₹30,000 prize)
 - ⚡ **Fun Fact**: I love building AI-powered solutions that solve real-world problems!
+
+</div>
+
+<div style="clear: both;"></div>
 
 ---
 
