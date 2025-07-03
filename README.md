@@ -15,7 +15,7 @@
 
 ### 🛠 **About Me**
 <div style="display: flex; align-items: center; gap: 30px;">
-  <img src="https://i.ibb.co/tpgRmNVC/image.png" alt="Coding" width="300" style="border-radius: 10px;" />
+  <img src="https://i.ibb.co/tpgRmNVC/image.png" alt="Coding" width="300" style="border-radius: 10px; margin-inline: auto;" />
   
   <div>
     - 🎓 <strong>B.Tech Computer Science Student</strong> at VIT Bhopal University (CGPA: 8.58/10)<br>
