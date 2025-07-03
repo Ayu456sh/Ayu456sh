@@ -1,8 +1,3 @@
-# Ayush Kakkar - GitHub Profile README
-
-## Your Customized Profile Code
-
-
 <h1 align="center">Hi 👋, I'm Ayush Kakkar</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
 
@@ -130,46 +125,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-```
-
-## Additional Tech Stack Badges
-
-Here are some additional tech stack badges you might want to include:
-
-### Frontend Frameworks
-```markdown
-<a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a>
-<a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
-```
-
-### Backend Frameworks
-```markdown
-<a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>
-```
-
-### Mobile Development
-```markdown
-<a href="https://developer.android.com/" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/></a>
-<a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
-<a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
-```
-
-### Other Databases
-```markdown
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
-<a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
-```
-
-## How to Use This Template
-
-1. Replace all placeholders marked with `[YOUR_...]` with your actual information
-2. Customize the tech stack section to include only the technologies you actually use
-3. Update the projects section with your real projects
-4. Add your social media links and portfolio URL
-5. Save this as `README.md` in your GitHub profile repository
-
-Would you like me to help you fill in any specific sections with your actual information? Just provide me with your details and I'll create a fully personalized version for you!
