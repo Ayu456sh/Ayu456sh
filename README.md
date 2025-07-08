@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Web Developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0078D7&center=true&width=500&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Building+AI-Powered+Web+Applications;Welcome+to+my+GitHub+Universe!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0078D7&center=true&width=500&lines=Welcome+to+my+GitHub+Universe!" alt="Typing SVG">
 </p>
 
 ---
@@ -10,10 +10,6 @@
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px;">
 
-  <div style="flex: 0 0 300px; text-align: center;">
-    <img src="https://i.ibb.co/tpgRmNVC/image.png" alt="Ayush Kakkar" width="280" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
-  </div>
-</div>
 
 
 
