@@ -6,7 +6,7 @@
 </p>
 
 ###
-<div align="right">
+<div align="left">
 <img src="https://i.ibb.co/tpgRmNVC/image.png" alt="Profile Image" width="300" style="border-radius: 10px; margin: 0 20px 20px 0; float: right;" />
 
   
@@ -31,7 +31,7 @@
 ---
 
 ### 🌐 **Connect With Me**
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ayush-kakkar-11a24a252/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
