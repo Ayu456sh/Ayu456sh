@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0078D7&center=true&width=500&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Building+AI-Powered+Web+Applications;Welcome+to+my+GitHub+Universe!" alt="Typing SVG">
 </p>
-<div align="right">
+<div align="left">
 <img src="https://i.ibb.co/tpgRmNVC/image.png" alt="Profile Image" width="300" style="border-radius: 10px; margin: 0 20px 20px 0; float: right;" />
 
   
