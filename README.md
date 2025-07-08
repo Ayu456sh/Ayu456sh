@@ -6,7 +6,7 @@
 </p>
 
 ###
-<div align="left">
+<div align="right">
 <img src="https://i.ibb.co/tpgRmNVC/image.png" alt="Profile Image" width="300" style="border-radius: 10px; margin: 0 20px 20px 0; float: right;" />
 
   
