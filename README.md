@@ -11,9 +11,9 @@
 
 ### 🛠 **About Me**
 
-<div align="left">
+ <div align="right"> 
   <img src="https://i.ibb.co/tpgRmNVC/image.png" alt="Profile Image" width="300" style="border-radius: 10px; margin: 0 20px 20px 0; float: right;" />
-  
+ <div align="left"> 
 - 🎓 **B.Tech Computer Science Student** at VIT Bhopal University (CGPA: 8.58/10)
 - 💻 **Full-Stack Developer** with expertise in React, Node.js, and Python
 - 🤖 **AI/ML Enthusiast** specializing in computer vision and recommendation systems
