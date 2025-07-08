@@ -5,26 +5,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0078D7&center=true&width=500&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Building+AI-Powered+Web+Applications;Welcome+to+my+GitHub+Universe!" alt="Typing SVG">
 </p>
 
-  
 ---
 
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px;">
 
 ### 🛠 **About Me**
-
- <div align="left"> 
-  <img src="https://i.ibb.co/tpgRmNVC/image.png" alt="Profile Image" width="300" style="border-radius: 10px; margin: 0 20px 20px 0; float: right;" />
 
 - 🎓 **B.Tech Computer Science Student** at VIT Bhopal University (CGPA: 8.58/10)
 - 💻 **Full-Stack Developer** with expertise in React, Node.js, and Python
 - 🤖 **AI/ML Enthusiast** specializing in computer vision and recommendation systems
 - 🏆 **Hackathon Winner** - 3rd rank in OnlineSales.Ai's national hackathon (₹30,000 prize)
 - ⚡ **Fun Fact**: I love building AI-powered solutions that solve real-world problems!
-
-</div>
-
-<div style="clear: both;"></div>
-
----
 
 ### 🌐 **Connect With Me**
 <p align="left">
@@ -78,6 +70,32 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
 </p>
 
+### 🎯 **Featured Projects**
+- **🎯 Cognito - Facial Recognition Attendance System**: Built with OpenCV & Python achieving 95% accuracy, integrated Firebase for real-time sync and React dashboard (reduced data retrieval by 50%)
+- **🏛️ Niti-Nirman - AI Scheme Recommender Platform**: ML-powered government scheme recommendations with blockchain document storage, integrated Gemini API chatbot (improved relevance by 40%)
+- **🎬 Video-Gen - AI Video Generation Platform**: End-to-end AI video creation system using FastAPI & React with Gemini Flash 2.0 and Kling v1.6 models (enhanced accuracy by 25%)
+
+### 🏆 **Achievements**
+- 🥉 **3rd Place** in OnlineSales.Ai National Hackathon (₹30,000 prize) - Built AI-powered video ad platform
+- 🎓 **Academic Excellence** - CGPA 8.58/10 at VIT Bhopal University
+- 👥 **Community Leader** - Core Team Member at VIT Bhopal's Software Development Club
+- 📜 **Certified** in MERN Stack, DevOps, and Web Development
+
+### 📈 **Current Focus**
+- 🔭 I'm currently working on **AI-powered video generation systems**
+- 🌱 I'm currently learning **advanced machine learning algorithms and system design**
+- 👯 I'm looking to collaborate on **open source AI/ML projects**
+- 🤔 I'm looking for help with **distributed systems and scalable architectures**
+- 💬 Ask me about **React, Python, FastAPI, Computer Vision, and AI**
+- 📫 How to reach me: **kakkarayush0@gmail.com**
+
+  </div>
+  
+  <div style="flex: 0 0 300px; text-align: center;">
+    <img src="https://i.ibb.co/tpgRmNVC/image.png" alt="Ayush Kakkar" width="280" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+  </div>
+</div>
+
 ---
 
 ### 📊 **GitHub Stats**
@@ -93,33 +111,8 @@
 
 ### 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayu456sh&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayu456sh&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </p>
-
----
-
-### 🎯 **Featured Projects**
-- **🎯 Cognito - Facial Recognition Attendance System**: Built with OpenCV & Python achieving 95% accuracy, integrated Firebase for real-time sync and React dashboard (reduced data retrieval by 50%)
-- **🏛️ Niti-Nirman - AI Scheme Recommender Platform**: ML-powered government scheme recommendations with blockchain document storage, integrated Gemini API chatbot (improved relevance by 40%)
-- **🎬 Video-Gen - AI Video Generation Platform**: End-to-end AI video creation system using FastAPI & React with Gemini Flash 2.0 and Kling v1.6 models (enhanced accuracy by 25%)
-
----
-
-### 🏆 **Achievements**
-- 🥉 **3rd Place** in OnlineSales.Ai National Hackathon (₹30,000 prize) - Built AI-powered video ad platform
-- 🎓 **Academic Excellence** - CGPA 8.58/10 at VIT Bhopal University
-- 👥 **Community Leader** - Core Team Member at VIT Bhopal's Software Development Club
-- 📜 **Certified** in MERN Stack, DevOps, and Web Development
-
----
-
-### 📈 **Current Focus**
-- 🔭 I'm currently working on **AI-powered video generation systems**
-- 🌱 I'm currently learning **advanced machine learning algorithms and system design**
-- 👯 I'm looking to collaborate on **open source AI/ML projects**
-- 🤔 I'm looking for help with **distributed systems and scalable architectures**
-- 💬 Ask me about **React, Python, FastAPI, Computer Vision, and AI**
-- 📫 How to reach me: **kakkarayush0@gmail.com**
 
 ---
 
