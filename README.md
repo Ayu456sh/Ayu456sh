@@ -10,6 +10,13 @@
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px;">
 
+  <div style="flex: 0 0 300px; text-align: center;">
+    <img src="https://i.ibb.co/tpgRmNVC/image.png" alt="Ayush Kakkar" width="280" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+  </div>
+</div>
+
+
+
 ### 🛠 **About Me**
 
 - 🎓 **B.Tech Computer Science Student** at VIT Bhopal University (CGPA: 8.58/10)
@@ -87,10 +94,7 @@
 
   </div>
   
-  <div style="flex: 0 0 300px; text-align: center;">
-    <img src="https://i.ibb.co/tpgRmNVC/image.png" alt="Ayush Kakkar" width="280" style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
-  </div>
-</div>
+  
 
 ---
 
