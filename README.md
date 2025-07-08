@@ -70,10 +70,6 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
 </p>
 
-### 🎯 **Featured Projects**
-- **🎯 Cognito - Facial Recognition Attendance System**: Built with OpenCV & Python achieving 95% accuracy, integrated Firebase for real-time sync and React dashboard (reduced data retrieval by 50%)
-- **🏛️ Niti-Nirman - AI Scheme Recommender Platform**: ML-powered government scheme recommendations with blockchain document storage, integrated Gemini API chatbot (improved relevance by 40%)
-- **🎬 Video-Gen - AI Video Generation Platform**: End-to-end AI video creation system using FastAPI & React with Gemini Flash 2.0 and Kling v1.6 models (enhanced accuracy by 25%)
 
 ### 🏆 **Achievements**
 - 🥉 **3rd Place** in OnlineSales.Ai National Hackathon (₹30,000 prize) - Built AI-powered video ad platform
