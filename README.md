@@ -85,11 +85,9 @@
 - 🌱 I'm currently learning **advanced machine learning algorithms and system design**
 - 👯 I'm looking to collaborate on **open source AI/ML projects**
 - 🤔 I'm looking for help with **distributed systems and scalable architectures**
-- 💬 Ask me about **React, Python, FastAPI, Computer Vision, and AI**
 - 📫 How to reach me: **kakkarayush0@gmail.com**
 
   </div>
-  
   
 
 ---
@@ -104,7 +102,6 @@
 </p>
 
 ---
-
 
 ### 🏆 **GitHub Trophies**
 <p align="center">
