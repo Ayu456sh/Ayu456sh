@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Kakkar</h1>
-<h3 align="center">A Passionate Web Developer from India</h3>
+<h3 align="center">A Passionate Data Engineer from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0078D7&center=true&width=500&lines=Welcome+to+my+GitHub+Universe!" alt="Typing SVG">
@@ -16,8 +16,7 @@
 ### 🛠 **About Me**
 
 - 🎓 **B.Tech Computer Science Student** at VIT Bhopal University (CGPA: 8.7/10)
-- 💻 **Full-Stack Developer** with expertise in React, Node.js, and Python
-- 🤖 **AI/ML Enthusiast** specializing in computer vision and recommendation systems
+- 💻 **Data Engineer** with expertise in Python, Pyspark and SQL
 - 🏆 **Hackathon Winner** - 3rd rank in OnlineSales.Ai's national hackathon (₹30,000 prize)
 - ⚡ **Fun Fact**: I love building AI-powered solutions that solve real-world problems!
 
@@ -43,8 +42,6 @@
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>
   
@@ -58,14 +55,7 @@
   <a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-  <a href="https://www.cloudflare.com/" target="_blank"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/></a>
   <a href="https://cloudinary.com/" target="_blank"><img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/></a>
-  
-  <!-- Machine Learning & AI -->
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/></a>
   
   <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
@@ -76,15 +66,14 @@
 
 ### 🏆 **Achievements**
 - 🥉 **3rd Place** in OnlineSales.Ai National Hackathon (₹30,000 prize) - Built AI-powered video ad platform
-- 🎓 **Academic Excellence** - CGPA 8.58/10 at VIT Bhopal University
+- 🎓 **Academic Excellence** - CGPA 8.7/10 at VIT Bhopal University
 - 👥 **Community Leader** - Core Team Member at VIT Bhopal's Software Development Club
 - 📜 **Certified** in MERN Stack, DevOps, and Web Development
 
 ### 📈 **Current Focus**
-- 🔭 I'm currently working on **AI-powered video generation systems**
-- 🌱 I'm currently learning **advanced machine learning algorithms and system design**
-- 👯 I'm looking to collaborate on **open source AI/ML projects**
-- 🤔 I'm looking for help with **distributed systems and scalable architectures**
+- 🔭 I'm currently working on **Data Engineering based Projects**
+- 🌱 I'm currently learning **advanced Data Structures and algorithms**
+- 👯 I'm looking to collaborate on **open source contributions**
 - 📫 How to reach me: **kakkarayush0@gmail.com**
 
   </div>
