@@ -13,11 +13,11 @@
 
 ## 🛠 **About Me**
 
-- 🎓 **B.Tech Computer Science Student** at Vellore Institute of Technology (CGPA: 8.68/10)
+- 🎓 **B.Tech Computer Science Student** at Vellore Institute of Technology (CGPA: 8.7/10)
 - 📊 **Data Engineer** specializing in ETL/ELT pipelines, real-time data processing, and distributed systems
 - ⚡ **Tech Focus**: Apache Spark, Apache Kafka, Data Warehousing, and Cloud Infrastructure (AWS)
 - 🤖 **AI Integration**: Building data pipelines that power AI-driven applications and analytics
-- 🏆 **Hackathon Achiever** - 2nd Runners-up at OnlineSale.ai National Hackathon & SIH 2025 Finalist
+- 🏆 **Hackathon Achiever** - 2nd Runners-up at OnlineSale.ai National Hackathon & SIH 2025 Internal Round Finalist
 - 💡 **Fun Fact**: I love designing scalable data architectures that turn raw data into actionable insights!
 
 ---
